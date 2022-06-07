@@ -1,0 +1,14 @@
+{
+    "name": "apikeygenerator/keygenerator",
+    "description": "It generate key and encode and decode it",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ApiKeyGenerator\\KeyGenerator\\": "src/"
+            
+        }
+    }
+}
